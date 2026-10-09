@@ -1,0 +1,1100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Blogging 3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-30 14:53+0100\n"
+"PO-Revision-Date: 2026-10-09 14:31+0300\n"
+"Last-Translator: Lena Stergatu <stergatu@cti.gr>\n"
+"Language-Team: Incsub\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/class_wdeb_admin_form_renderer.php:15 lib/class_wdeb_admin_pages.php:548
+#: lib/plugins/wdeb-pro-force_free.php:73
+msgid "Yes"
+msgstr "Ναι"
+
+#: lib/class_wdeb_admin_form_renderer.php:18 lib/class_wdeb_admin_pages.php:553
+#: lib/plugins/wdeb-pro-force_free.php:76
+msgid "No"
+msgstr "Όχι"
+
+#: lib/class_wdeb_admin_form_renderer.php:30
+#: lib/plugins/wdeb-editor-control_product_metaboxes.php:57
+msgid "Excerpt"
+msgstr "Απόσπασμα"
+
+#: lib/class_wdeb_admin_form_renderer.php:31
+#: lib/class_wdeb_admin_form_renderer.php:58
+msgid "Featured Image"
+msgstr "Eπιλεγμένη εικόνα"
+
+#: lib/class_wdeb_admin_form_renderer.php:32
+msgid "Send Trackbacks"
+msgstr "Στείλτε Trackback"
+
+#: lib/class_wdeb_admin_form_renderer.php:33
+#: lib/class_wdeb_admin_form_renderer.php:57
+msgid "Custom Fields"
+msgstr "Προσαρμοσμένα πεδία"
+
+#: lib/class_wdeb_admin_form_renderer.php:34
+#: lib/class_wdeb_admin_form_renderer.php:59
+msgid "Discussion"
+msgstr "Συζήτηση"
+
+#: lib/class_wdeb_admin_form_renderer.php:35
+#: lib/class_wdeb_admin_form_renderer.php:60
+msgid "Slug"
+msgstr "Συντομογραφία"
+
+#: lib/class_wdeb_admin_form_renderer.php:36
+#: lib/class_wdeb_admin_form_renderer.php:61
+#: lib/plugins/wdeb-editor-control_product_metaboxes.php:56
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: lib/class_wdeb_admin_form_renderer.php:37
+msgid "Format"
+msgstr "Μορφή"
+
+#: lib/class_wdeb_admin_form_renderer.php:38
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: lib/class_wdeb_admin_form_renderer.php:39
+msgid "Post Tags"
+msgstr "Ετικέτες Άρθρου"
+
+#: lib/class_wdeb_admin_form_renderer.php:40
+msgid "Revisions"
+msgstr "Αναθεωρήσεις"
+
+#: lib/class_wdeb_admin_form_renderer.php:51
+#: lib/class_wdeb_admin_form_renderer.php:73
+#: lib/plugins/wdeb-editor-control_product_metaboxes.php:69
+msgid ""
+"<p><b>Warning:</b> all other boxes will be shown or hidden according to "
+"their screen settings</p>"
+msgstr ""
+"<p><b>Προσοχή:</b> όλα τα υπόλοιπα πεδία θα φαίνονται ή θα κρύβονται ανάλογα "
+"με τις ιδιότητες της οθόνης τους</p>"
+
+#: lib/class_wdeb_admin_form_renderer.php:62
+msgid "Page Attributes"
+msgstr "Χαρακτηριστικά Σελίδας"
+
+#: lib/class_wdeb_admin_form_renderer.php:80
+msgid "<p>Show WordPress Admin bar in Easy mode.</p>"
+msgstr "<p>Προβολή του Πίνακα Ελέγχου σε Εύκολη Μορφή.</p>"
+
+#: lib/class_wdeb_admin_form_renderer.php:87
+msgid "<p>Show contextual help and screen options in Easy mode.</p>"
+msgstr ""
+"<p>Εμφάνιση συμφραζόμενη βοήθεια και τις επιλογές της οθόνης στον τρόπο "
+"λειτουργίας Εύκολης Μορφής.</p>"
+
+#: lib/class_wdeb_admin_form_renderer.php:94
+msgid "<p>Show persistent top right Easy Bar in Easy mode.</p>"
+msgstr "<p>Εμφάνιση μόνιμης επάνω δεξιάς Easy Bar σε λειτουργία Easy.</p>"
+
+#: lib/class_wdeb_admin_form_renderer.php:122
+msgid "<p>Users with selected roles will be forced to use the easy mode.</p>"
+msgstr ""
+"<p>Οι χρήστες με επιλεγμένους ρόλους θα αναγκαστούν να χρησιμοποιήσουν την "
+"εύκολη λειτουργία.</p>"
+
+#: lib/class_wdeb_admin_form_renderer.php:133
+#, php-format
+msgid "Default %s"
+msgstr "Προεπιλογή: %s"
+
+#: lib/class_wdeb_admin_form_renderer.php:134
+#, php-format
+msgid "Stripes Red %s"
+msgstr "Κόκκινες ρίγες %s"
+
+#: lib/class_wdeb_admin_form_renderer.php:135
+#, php-format
+msgid "Stripes Orange %s"
+msgstr "Πορτοκαλί ρίγες %s"
+
+#: lib/class_wdeb_admin_form_renderer.php:136
+#, php-format
+msgid "Stripes Green %s"
+msgstr "Πράσινες ρίγες %s"
+
+#: lib/class_wdeb_admin_form_renderer.php:157
+msgid ""
+"<p>If set to \"Yes\", this option will allow new users to choose between "
+"Easy and Advanced mode the first time they log in.</p><p>Their choice will "
+"be stored and used from that point on, as long as this option is turned on.</"
+"p>"
+msgstr ""
+"<p>Εάν οριστεί σε \"Ναι\", αυτή η επιλογή θα επιτρέψει στους νέους χρήστες "
+"να επιλέξουν μεταξύ της λειτουργίας Easy και Advanced την πρώτη φορά που θα "
+"συνδεθούν.</p><p>Η επιλογή τους θα αποθηκευτεί και θα χρησιμοποιηθεί από "
+"εκείνο το σημείο και μετά, εφόσον αυτή η επιλογή είναι ενεργοποιημένη.</p>"
+
+#: lib/class_wdeb_admin_form_renderer.php:170
+#, php-format
+msgid "Current logo:<br /> %s"
+msgstr "Τρέχον λογότυπο:<br /> %s"
+
+#: lib/class_wdeb_admin_form_renderer.php:171
+msgid "Reset logo"
+msgstr "Επαναφορά λογότυπου"
+
+#: lib/class_wdeb_admin_form_renderer.php:174
+msgid ""
+"Upload your own logo:<br /><em>*suitable logo dimension: width=150px "
+"height=80px or more</em><br />"
+msgstr ""
+"Ανεβάστε το δικό σας λογότυπο:<br /><em>*Κατάλληλη διάσταση λογότυπου: "
+"πλάτος=150px ύψος=80px ή μεγαλύτερο</em><br />"
+
+#: lib/class_wdeb_admin_form_renderer.php:181
+msgid "Show dashboard widget"
+msgstr "Προβολλή μονάδας πίνακα ελέγχου"
+
+#: lib/class_wdeb_admin_form_renderer.php:185
+msgid "Widget title"
+msgstr "Τίτλος μονάδας"
+
+#: lib/class_wdeb_admin_form_renderer.php:190
+msgid "Widget contents"
+msgstr "Περιεχόμενα μονάδας"
+
+#: lib/class_wdeb_admin_form_renderer.php:225
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: lib/class_wdeb_admin_form_renderer.php:227
+msgid "Edit"
+msgstr "Επεξεργασία "
+
+#: lib/class_wdeb_admin_form_renderer.php:237
+msgid "<p>Drag and drop steps to sort them in the order you want.</p>"
+msgstr ""
+"<p>Σύρετε και αποθέστε βήματα για να τα ταξινομήσετε με τη σειρά που θέλετε."
+"</p>"
+
+#: lib/class_wdeb_admin_form_renderer.php:239
+msgid ""
+"<p>Enable the Wizard, then drag and drop steps to sort them in the order you "
+"want.</p>"
+msgstr ""
+"<p>Ενεργοποιήστε τον Οδηγό και, στη συνέχεια, σύρετε και αποθέστε βήματα για "
+"να τα ταξινομήσετε με τη σειρά που θέλετε.</p>"
+
+#: lib/class_wdeb_admin_form_renderer.php:245
+msgid "URL:"
+msgstr "URL:"
+
+#: lib/class_wdeb_admin_form_renderer.php:247
+msgid "Administrative page (e.g. \"/post-new.php\" or \"/themes.php\")"
+msgstr "Σελίδα διαχείρισης (π.χ. \"/post-new.php\" ή \"/themes.php\")"
+
+#: lib/class_wdeb_admin_form_renderer.php:248
+msgid "Site page (e.g. \"/\" or \"/2007-06-05/an-old-post\")"
+msgstr "Σελίδα ιστότοπου (π.χ. \"/\" ή \"/2007-06-05/an-old-post\")"
+
+#: lib/class_wdeb_admin_form_renderer.php:253
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: lib/class_wdeb_admin_form_renderer.php:257
+msgid "Help:"
+msgstr "Βοήθεια:"
+
+#: lib/class_wdeb_admin_form_renderer.php:260
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: lib/class_wdeb_admin_pages.php:41
+msgid "This file type is not supported"
+msgstr "Αυτός ο τύπος αρχείου δεν υποστηρίζεται"
+
+#: lib/class_wdeb_admin_pages.php:106 lib/class_wdeb_admin_pages.php:107
+#: lib/class_wdeb_admin_pages.php:255
+msgid "Easy Blogging"
+msgstr "Εύκολο Blogging"
+
+#: lib/class_wdeb_admin_pages.php:108
+msgid "Easy Blogging Wizard"
+msgstr "Οδηγός Εύκολου Blogging"
+
+#: lib/class_wdeb_admin_pages.php:109
+msgid "Easy Blogging Tooltips"
+msgstr "Easy Blogging Tooltips"
+
+#: lib/class_wdeb_admin_pages.php:110
+msgid "Add-ons"
+msgstr "Επεκτάσεις"
+
+#: lib/class_wdeb_admin_pages.php:119
+msgid "Editor Settings"
+msgstr "Ρυθμίσεις κειμενογράφου"
+
+#: lib/class_wdeb_admin_pages.php:120
+msgid "Hide these meta boxes on \"Edit Post\" pages"
+msgstr "Απόκρυψη των επιλεγμένων πλαισίων στις σελίδες \"Επεξεργασία άρθρου\""
+
+#: lib/class_wdeb_admin_pages.php:121
+msgid "Hide these meta boxes on \"Edit Page\" pages"
+msgstr "Απόκρυψη των επιλεγμένων πλαισίων στις σελίδες \"Επεξεργασία σελίδας\""
+
+#: lib/class_wdeb_admin_pages.php:122
+msgid "Show Admin bar"
+msgstr "Εμφάνιση μπάρας διαχείρισης"
+
+#: lib/class_wdeb_admin_pages.php:123
+msgid "Show help and screen options"
+msgstr "Εμφάνιση βοήθειας και επιλογών προβολής"
+
+#: lib/class_wdeb_admin_pages.php:124
+msgid "Show Easy Bar"
+msgstr "Show Easy Bar"
+
+#: lib/class_wdeb_admin_pages.php:125
+msgid "Force \"Easy\" mode for user with this role"
+msgstr "Υποχρεωτική χρήση του \"Ευκολου\" blogging για χρήστες με ρόλο"
+
+#: lib/class_wdeb_admin_pages.php:126
+msgid "Hijack start page for new users"
+msgstr ""
+
+#: lib/class_wdeb_admin_pages.php:127
+msgid "Always show logout link"
+msgstr "Να εμφανίζεται πάντα ο σύνδεσμος αποσύνδεσης"
+
+#: lib/class_wdeb_admin_pages.php:128
+msgid "Use this theme"
+msgstr "Χρήση αυτού του θέματος εμφάνισης"
+
+#: lib/class_wdeb_admin_pages.php:129
+msgid "Use this logo"
+msgstr "Χρήση αυτ του λογότυπου"
+
+#: lib/class_wdeb_admin_pages.php:130
+msgid "Dashboard widget"
+msgstr "Μονάδα πίνακα ελέγχου"
+
+#: lib/class_wdeb_admin_pages.php:131
+msgid "Show &quot;Right Now&quot; in Dashboard"
+msgstr "Εμφάνιση &quot;Αυτήν τη στιγμή&quot; στον πίνακα ελέγχου"
+
+#: lib/class_wdeb_admin_pages.php:136
+#: lib/plugins/wdeb-menu-manage_items.php:200
+msgid "Wizard Settings"
+msgstr "Ρυθμίσεις οδηγού"
+
+#: lib/class_wdeb_admin_pages.php:137
+msgid "Enable Wizard"
+msgstr "Ενεργοποίηση οδηγού"
+
+#: lib/class_wdeb_admin_pages.php:138
+msgid "Configure Wizard Steps"
+msgstr "Ρυθμίσεις βημάτων οδηγού"
+
+#: lib/class_wdeb_admin_pages.php:139
+msgid "Add new Wizard Step"
+msgstr "Προσθήκη νέου βήματος οδηγού"
+
+#: lib/class_wdeb_admin_pages.php:144
+msgid "Tooltips Settings"
+msgstr "Ρυθμίσεις επεξηγήσεων"
+
+#: lib/class_wdeb_admin_pages.php:145
+msgid "Show Tooltips"
+msgstr "Εμφάνιση επεξηγήσεων"
+
+#: lib/class_wdeb_admin_pages.php:168
+#: lib/plugins/wdeb-theme-toolbar_switch_button.php:32
+msgid "Activate easy mode"
+msgstr "Ενεργοποίηση του εύκολου τρόπου"
+
+#: lib/class_wdeb_admin_pages.php:394
+msgid "Supporter"
+msgstr "Υποστηρικτής"
+
+#: lib/class_wdeb_admin_pages.php:402
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+#: lib/class_wdeb_admin_pages.php:403
+msgid "Your start page"
+msgstr "Η αρχική σας σελίδα"
+
+#: lib/class_wdeb_admin_pages.php:410
+msgid "New Post"
+msgstr "Νέο Άρθρο"
+
+#: lib/class_wdeb_admin_pages.php:411
+msgid "Create a new post"
+msgstr "Δημιουργία Νέου Άρθρου"
+
+#: lib/class_wdeb_admin_pages.php:418
+msgid "My Posts"
+msgstr "Τα Άρθρα μου"
+
+#: lib/class_wdeb_admin_pages.php:419
+msgid "Edit your posts"
+msgstr "Επεξεργασία Άρθρων"
+
+#: lib/class_wdeb_admin_pages.php:426
+msgid "New Page"
+msgstr "Νέα Σελίδα"
+
+#: lib/class_wdeb_admin_pages.php:427
+msgid "Create a new page"
+msgstr "Δημιουργία Νέας Σελίδας"
+
+#: lib/class_wdeb_admin_pages.php:434
+msgid "My Pages"
+msgstr "Οι Σελίδες μου"
+
+#: lib/class_wdeb_admin_pages.php:435
+msgid "Edit your pages"
+msgstr "Επεξεργασία Σελίδων"
+
+#: lib/class_wdeb_admin_pages.php:442
+msgid "Comments"
+msgstr "Σχόλια "
+
+#: lib/class_wdeb_admin_pages.php:443
+msgid "Moderate your comments"
+msgstr "Έλεγχος σχολίων"
+
+#: lib/class_wdeb_admin_pages.php:450
+msgid "Free Themes"
+msgstr "Δωρεάν θέματα"
+
+#: lib/class_wdeb_admin_pages.php:451 lib/class_wdeb_admin_pages.php:459
+#: lib/class_wdeb_admin_pages.php:467
+msgid "Change your site appearance"
+msgstr "Αλλάξτε την εμφάνισή του δικτυακού τόπου σας"
+
+#: lib/class_wdeb_admin_pages.php:458
+msgid "Premium Themes"
+msgstr "Premium θέματα"
+
+#: lib/class_wdeb_admin_pages.php:466
+msgid "Manage Themes"
+msgstr "Διαχείριση θεμάτων"
+
+#: lib/class_wdeb_admin_pages.php:474
+msgid "Customize Design"
+msgstr "Προσαρμογή σχεδίασης"
+
+#: lib/class_wdeb_admin_pages.php:475
+msgid "Personalize your site"
+msgstr "Δώστε μία προσωπική νότα στο δικτυακό σας τόπο"
+
+#: lib/class_wdeb_admin_pages.php:483
+msgid "Support us!"
+msgstr "Υποστηρίξτε μας!"
+
+#: lib/class_wdeb_admin_pages.php:490
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: lib/class_wdeb_admin_pages.php:491
+msgid "Edit your profile information"
+msgstr "Επεξεργασία πληροφοριών προφίλ"
+
+#: lib/class_wdeb_admin_pages.php:541
+msgid "Easy Blogging starting mode"
+msgstr "Εύκολη λειτουργία έναρξης Blogging"
+
+#: lib/class_wdeb_admin_pages.php:544
+msgid "Start in Easy mode"
+msgstr "Ξεκινήστε στην Εύκολη λειτουργία"
+
+#: lib/class_wdeb_admin_pages.php:558
+msgid "Ask me the next time I log in"
+msgstr "Ρωτήστε με την επόμενη φορά που θα συνδεθώ"
+
+#: lib/class_wdeb_tooltips.php:44 lib/forms/wizard_settings.php:29
+#: lib/plugins/wdeb-menu-manage_items.php:328
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: lib/forms/partials/header.php:240
+#: lib/plugins/wdeb-theme-toolbar_switch_button.php:38
+msgid "Exit easy mode"
+msgstr "Έξοδος από την εύκολη λειτουργία"
+
+#: lib/forms/partials/header.php:266
+msgid "Visit site"
+msgstr "Επισκεφθείτε την ιστοσελίδα"
+
+#: lib/forms/partials/menu-default.php:46
+#: lib/forms/partials/menu-default.php:49 lib/forms/start_page.php:210
+#: lib/forms/start_page.php:213 lib/forms/start_page.php:262
+msgid "Wizard mode"
+msgstr "Βηματα Δημιουργιας Τευχους"
+
+#: lib/forms/partials/menu-default.php:50
+msgid "Enter guided step-by-step mode"
+msgstr "Ξεκινήστε την καθοδηγούμενη λειτουργία βήμα προς βήμα"
+
+#: lib/forms/partials/menu-default.php:60
+#: lib/forms/partials/menu-default.php:63 lib/forms/partials/menu-wizard.php:61
+#: lib/forms/partials/menu-wizard.php:64
+msgid "Exit Easy Mode"
+msgstr "Έξοδος από την εύκολη λειτουργία"
+
+#: lib/forms/partials/menu-default.php:64
+msgid "Return to advanced mode"
+msgstr "Επιστροφή στη λειτουργία για προχωρημένους"
+
+#: lib/forms/partials/menu-default.php:74
+#: lib/forms/partials/menu-default.php:77 lib/forms/partials/menu-wizard.php:74
+#: lib/forms/partials/menu-wizard.php:77
+msgid "Log Out"
+msgstr "Αποσύνδεση"
+
+#: lib/forms/partials/menu-default.php:78 lib/forms/partials/menu-wizard.php:78
+msgid "Log Out of your website"
+msgstr "Αποσύνδεση από το ιστολόγιο"
+
+#: lib/forms/partials/menu-wizard.php:16
+#, php-format
+msgid "Step %d"
+msgstr "Βήμα %d"
+
+#: lib/forms/partials/menu-wizard.php:33
+msgid "Next step"
+msgstr "Επόμενο βήμα"
+
+#: lib/forms/partials/menu-wizard.php:36
+msgid "Proceed to the next step"
+msgstr "Προχωρήστε στο επόμενο βήμα"
+
+#: lib/forms/partials/menu-wizard.php:47 lib/forms/partials/menu-wizard.php:50
+msgid "Exit Wizard mode"
+msgstr "Μεταβαση στην Αρχικη Σελιδα"
+
+#: lib/forms/partials/menu-wizard.php:51
+msgid "Exit guided step-by-step mode"
+msgstr "Έξοδος από την καθοδηγούμενη λειτουργία βήμα προς βήμα"
+
+#: lib/forms/partials/menu-wizard.php:65
+msgid "Return to standard mode"
+msgstr "Επιστροφή στην τυπική λειτουργία"
+
+#: lib/forms/plugins_settings.php:2
+msgid "Easy Blogging Add-ons"
+msgstr ""
+
+#: lib/forms/plugins_settings.php:12
+msgid "Add-on name"
+msgstr "Όνομα πρόσθετου"
+
+#: lib/forms/plugins_settings.php:13
+msgid "Add-on description"
+msgstr "Περιγραφή πρόσθετου"
+
+#: lib/forms/plugins_settings.php:28
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+#: lib/forms/plugins_settings.php:30 lib/forms/start_page.php:257
+#: lib/forms/start_page.php:262 lib/forms/start_page.php:266
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: lib/forms/plugins_settings.php:36
+#, php-format
+msgid "Version %s"
+msgstr "Έκδοση %s"
+
+#: lib/forms/plugins_settings.php:38
+#, php-format
+msgid "by %s"
+msgstr "Από: %s"
+
+#: lib/forms/start_page.php:11
+msgid "Start here"
+msgstr "Ξεκινήστε εδώ"
+
+#: lib/forms/start_page.php:199 lib/forms/start_page.php:202
+#: lib/forms/start_page.php:257
+msgid "Easy mode"
+msgstr "Εύκολη λειτουργία"
+
+#: lib/forms/start_page.php:199
+msgid "I want to start in Easy mode"
+msgstr "Θέλω να ξεκινήσω στην Εύκολη λειτουργία"
+
+#: lib/forms/start_page.php:210
+msgid "I want to start in a guided, step-by-step mode"
+msgstr "Θέλω να ξεκινήσω με καθοδηγούμενη, βήμα προς βήμα λειτουργία"
+
+#: lib/forms/start_page.php:218 lib/forms/start_page.php:221
+#: lib/forms/start_page.php:266
+msgid "Standard mode"
+msgstr "Τυπική λειτουργία"
+
+#: lib/forms/start_page.php:218
+msgid "I want to start in Standard mode"
+msgstr "Θέλω να ξεκινήσω σε τυπική λειτουργία"
+
+#: lib/forms/start_page.php:239 lib/forms/start_page.php:243
+#, php-format
+msgid "Welcome to %s"
+msgstr "Καλωσήλθατε στο %s"
+
+#: lib/forms/start_page.php:247
+#, php-format
+msgid ""
+"Select how you'd like to use your site - %s (you can change at any time)"
+msgstr ""
+"Επιλέξτε τον τρόπο με τον οποίο θέλετε να χρησιμοποιήσετε τον ιστότοπό σας - "
+"%s (μπορείτε να αλλάξετε ανά πάσα στιγμή)"
+
+#: lib/forms/start_page.php:258
+msgid "Great for beginners, easily and quickly manage your blog"
+msgstr ""
+"Ιδανικό για αρχάριους, διαχειριστείτε εύκολα και γρήγορα το ιστολόγιό σας"
+
+#: lib/forms/start_page.php:263
+msgid ""
+"Even greater for beginners, offers a guided step-by-step tour of your blog"
+msgstr ""
+"Ακόμη μεγαλύτερο για αρχάριους, προσφέρει μια καθοδηγούμενη περιήγηση βήμα "
+"προς βήμα στο ιστολόγιό σας"
+
+#: lib/forms/start_page.php:267
+msgid "Allows for fine-tuning your blog"
+msgstr "Επιτρέπει τη λεπτομερή ρύθμιση του ιστολογίου σας"
+
+#: lib/forms/start_page.php:270
+msgid ""
+"Remember, no matter which mode you select now, you can switch back at any "
+"time"
+msgstr ""
+"Θυμηθείτε, ανεξάρτητα από τη λειτουργία που επιλέγετε τώρα, μπορείτε να "
+"επιστρέψετε ανά πάσα στιγμή"
+
+#: lib/forms/tooltips_settings.php:2
+msgid "Easy Blogging settings"
+msgstr "Εύκολες ρυθμίσεις Blogging"
+
+#: lib/forms/wizard_settings.php:2
+msgid "Easy Wizard settings"
+msgstr "Ρυθμίσεις Easy Wizard"
+
+#: lib/forms/wizard_settings.php:21 lib/plugins/wdeb-menu-manage_items.php:314
+msgid "Title"
+msgstr "Τίτλος"
+
+#: lib/forms/wizard_settings.php:25 lib/plugins/wdeb-menu-manage_items.php:256
+#: lib/plugins/wdeb-menu-manage_items.php:318
+msgid "URL"
+msgstr "Ηλεκτρονική Διεύθυνση"
+
+#: lib/help/edit-comments.php:4
+msgid ""
+"Here you can edit, approve, delete or reply to comments on your blog posts. "
+"Click on tabs or select \"Filter\" to see only specific comments."
+msgstr ""
+"Εδώ μπορείτε να επεξεργαστείτε και να απαντήσετε σε σχόλια που έχουν γίνει "
+"στο περιοδικό σας. Πατήστε Φιλτράρισμα για να δείτε συγκεκρiμένα Σχόλια."
+
+#: lib/help/edit-comments.php:6
+msgid "Here you can manage the comments that are on your blog"
+msgstr ""
+"Εδώ μπορείτε να διαχειριστείτε τα Σχόλια που έχουν γίνει στο Περιοδικό σας:"
+
+#: lib/help/edit-page.php:4
+msgid ""
+"Below is a list your pages. You can quickly see important information about "
+"them, as well as edit, delete, or view each one."
+msgstr ""
+"Παρακάτω είναι μία Λίστα με τις Σελίδες του περιοδικού σας.Μπορείτε να δείτε "
+"τις Σελίδες σας, να τις επεξεργαστείτε ή να τις διαγράψετε!"
+
+#: lib/help/edit-page.php:6
+msgid "Here you can manage the pages that are on your blog"
+msgstr "Εδώ μπορείτε να διαχειριστείτε τις Σελίδες του περιοδικού σας!"
+
+#: lib/help/edit-post.php:4
+msgid ""
+"Below is a list your posts. You can quickly see important information about "
+"them, as well as edit, delete, or view each one."
+msgstr ""
+"Παρακάτω είναι μία λίστα με τα άρθρα του περιοδικού σας. Μπορείτε να δείτε "
+"τα άρθρα σας, να τα επεξεργαστείτε ή να τα διαγράψετε!"
+
+#: lib/help/edit-post.php:6
+msgid "Here you can manage the posts that are on your blog"
+msgstr "Εδώ μπορείτε να διαχειριστείτε τα άρθρα του περιοδικού σας!"
+
+#: lib/help/page.php:4
+msgid ""
+"Create a new \"static\" page below - this won't appear at the top of your "
+"latest posts."
+msgstr "Δημιουργήστε μια Στατική Σελίδα."
+
+#: lib/help/page.php:5
+msgid "Give your page a title here."
+msgstr "Δώστε ένα τίτλο στη Σελίδα σας"
+
+#: lib/help/page.php:6
+msgid ""
+"Write the content of your page, upload images or audio and choose if you "
+"want to use HTML (code) or Visual (like Word). You can paste in embed code "
+"for videos and widgets under the HTML tab."
+msgstr ""
+"Εισάγετε Περιεχόμενο στη Σελίδα σας. Εισάγετε όσο το δυνατόν περισσότερα "
+"πολυμέσα (φωτογραφίες, video κτλ). Κάνουν τη σελίδα σας πιο ζωντανή και "
+"περιγραφική!"
+
+#: lib/help/page.php:7
+msgid ""
+"Publish your page or save it as a draft below. You can also make it private "
+"or schedule publication for the future by clicking on the \"Edit\" links."
+msgstr "Δημοσιεύστε τη Σελίδα σας!"
+
+#: lib/help/page.php:9
+msgid ""
+"A page is a <em>stand-alone</em> item that does not appear at the top of "
+"your blog - e.g an <em>about page</em> or a page with contact details, a "
+"course outline or even a CV. Turn off comments for a professional look."
+msgstr ""
+"Οι Σελίδες είναι <em>στατικές</em> .Για παράδειγμα δημιουργείστε μια σελίδα "
+"με τον τίτλο  <em>ΕΠΙΚΟΙΝΩΝΙΑ</em> με πληροφορίες για στοιχεία επικοινωνίας "
+"των αναγνωστών!"
+
+#: lib/help/post.php:4
+msgid "Write up a new post to appear at the top of your blog."
+msgstr "Προσθήκη Νέου Άρθρου."
+
+#: lib/help/post.php:5
+msgid "The best post titles are usually really descriptive."
+msgstr "Προσθήκη Τίτλου στο Άρθρο: Το πεδίο αυτό είναι υποχρεωτικό."
+
+#: lib/help/post.php:6
+msgid ""
+"Write the content of your post, upload images or audio and choose if you "
+"want to use HTML (code) or Visual (like Word). You can paste in embed code "
+"for videos and widgets under the HTML tab."
+msgstr ""
+"Εισάγετε Περιεχόμενο στο άρθρο. Εισάγετε όσο το δυνατόν περισσότερα πολυμέσα "
+"(φωτογραφίες, video κτλ). Κάνουν το άρθρο σας πιο ζωντανό και περιγραφικό!"
+
+#: lib/help/post.php:7
+msgid ""
+"You can save your post as a draft or make it private by clicking on \"Edit\" "
+"next to \"Visibility\" below. You can also schedule posts to publish in the "
+"future by clicking \"Edit\" next to \"Immediately\". "
+msgstr ""
+"Μετά την Υποβολή το άρθρο σας θα αποτελέσει μέρος του τεύχους που έχετε "
+"επιλέξει!"
+
+#: lib/help/post.php:8
+msgid ""
+"Tags are a great way to help search engines find your posts, or to help you "
+"organize your content. Add as many as you can!"
+msgstr ""
+"Οι ετικέτες παρέχουν ένα χρήσιμο τρόπο για την ομαδοποίηση σχετικών άρθρων "
+"μεταξύ τους και για μια γρήγορη ενημέρωση των αναγνωστών σχετικά με το "
+"περιεχόμενο του άρθρου!"
+
+#: lib/help/post.php:9
+msgid ""
+"Categories are more serious than tags. They are the main themes of your blog."
+msgstr "Επιλέξτε σε ποια Στήλη θέλετε να ανήκει το άρθρο σας'"
+
+#: lib/help/post.php:11
+msgid "A long string of help here"
+msgstr "Για περισσότερη βοήθεια πατήστε εδώ"
+
+#: lib/help/themes.php:4
+msgid "Change the design of your blog, preview and activate new themes."
+msgstr ""
+"Αλλάξτε την Εμφάνιση του περιοδικού σας, ενεργοποιώντας νέα Θέματα/Templates"
+
+#: lib/help/themes.php:5
+msgid ""
+"This is the design that you are currently using for your blog. If you would "
+"like to change it, you can choose from the Available Themes below"
+msgstr ""
+"Αυτό το Θέμα/Template είναι αυτή τη στιγμή ενεργοποιημένο για το Περιοδικό "
+"σας."
+
+#: lib/help/themes.php:6
+msgid ""
+"You can choose any of these designs, and your blog will be automatically "
+"updated to look like this. Simply click on any of the images to preview what "
+"your blog will look like with that design."
+msgstr ""
+"Για να αλλάξετε την εμφάνιση του Περιοδικού σας πατήστε Ενεργοποίηση σε ένα "
+"από τα παρακάτω Θέματα/Templates"
+
+#: lib/help/themes.php:8
+msgid "Here you can change your blog's theme"
+msgstr "Εδώ μπορείτε να αλλάξετε το Θέμα/Template του περιοδικού σας!"
+
+#: lib/help/widgets.php:4
+msgid "To add elements to the sidebar of your blog drag and drop them below."
+msgstr ""
+"Για να προσθαφαιρέσετε μονάδες στο περιοδικό σας, μετακινήστε τις μονάδες με "
+"λειτουργία drag and drop στο ακόλουθο πεδίο"
+
+#: lib/help/widgets.php:6
+msgid "Here you can customize what shows up in your sidebar"
+msgstr ""
+"Εδώ μπορείτε να καθορίζετε τι θα φαίνεται στην πλαϊνή μπάρα του περιοδικού "
+"σας!"
+
+#: lib/plugins/wdeb-dashboard-widgets_setup.php:63
+msgid "Dashboard items"
+msgstr "Στοιχεία πίνακα ελέγχου "
+
+#: lib/plugins/wdeb-dashboard-widgets_setup.php:74
+#: lib/plugins/wdeb-menu-manage_items.php:194
+#: lib/plugins/wdeb-theme-admin_footer.php:91
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: lib/plugins/wdeb-dashboard-widgets_setup.php:80
+msgid "Widgets"
+msgstr "Μονάδες"
+
+#: lib/plugins/wdeb-dashboard-widgets_setup.php:81
+msgid "Previously hidden Dashboard items"
+msgstr "Στοιχεία πίνακα εργαλείων που είχαν κρυφτεί στο παρελθόν"
+
+#: lib/plugins/wdeb-dashboard-widgets_setup.php:95
+msgid "No recorded history. You may want to visit your blog's Dashboard first."
+msgstr ""
+"Δεν υπάρχει καταγεγραμμένο ιστορικό. Μπορεί να θέλετε να επισκεφτείτε πρώτα "
+"τον Πίνακα ελέγχου του ιστολογίου σας."
+
+#: lib/plugins/wdeb-dashboard-widgets_setup.php:108
+msgid ""
+"If you do not see your Dashboard widget here, please visit your site's "
+"Dashboard in Easy Mode first."
+msgstr ""
+"Εάν δεν βλέπετε το γραφικό στοιχείο του Πίνακα ελέγχου εδώ, επισκεφτείτε "
+"πρώτα τον Πίνακα ελέγχου του ιστότοπού σας σε Εύκολη λειτουργία."
+
+#: lib/plugins/wdeb-editor-control_product_metaboxes.php:45
+msgid "Hide these Product metaboxes"
+msgstr "Απόκρυψη αυτών των μετα-κουτιών προϊόντων"
+
+#: lib/plugins/wdeb-editor-control_product_metaboxes.php:58
+msgid "Product Categories"
+msgstr "Κατηγορίες προϊόντων"
+
+#: lib/plugins/wdeb-editor-control_product_metaboxes.php:59
+msgid "Product Tags"
+msgstr "Ετικέτες Προϊόντος"
+
+#: lib/plugins/wdeb-editor-control_product_metaboxes.php:60
+msgid "Product Download"
+msgstr "Λήψη προϊόντος"
+
+#: lib/plugins/wdeb-menu-manage_items.php:183
+msgid "Menu items"
+msgstr "Στοιχεία μενού"
+
+#: lib/plugins/wdeb-menu-manage_items.php:201
+msgid "Show or hide menu items<br/><small>(Drag and drop to reorder)</small>"
+msgstr ""
+"Εμφάνιση ή απόκρυψη στοιχείων μενού<br/><small>(Σύρετε και αποθέστε για "
+"αναδιάταξη)</small>"
+
+#: lib/plugins/wdeb-menu-manage_items.php:202
+msgid "Add menu item"
+msgstr "Προσθήκη στοιχείου μενού"
+
+#: lib/plugins/wdeb-menu-manage_items.php:203
+msgid "Resets"
+msgstr "Αρχικοποίηση"
+
+#: lib/plugins/wdeb-menu-manage_items.php:247
+#: lib/plugins/wdeb-menu-manage_items.php:297
+msgid "Check all"
+msgstr "Επιλογή όλων"
+
+#: lib/plugins/wdeb-menu-manage_items.php:249
+#: lib/plugins/wdeb-menu-manage_items.php:299
+msgid "Uncheck all"
+msgstr "Αποεπιλογή όλων"
+
+#: lib/plugins/wdeb-menu-manage_items.php:254
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: lib/plugins/wdeb-menu-manage_items.php:255
+msgid "Item"
+msgstr "Στοιχείο"
+
+#: lib/plugins/wdeb-menu-manage_items.php:257
+msgid "Capability"
+msgstr "Δυνατότητα"
+
+#: lib/plugins/wdeb-menu-manage_items.php:258
+msgid "Type"
+msgstr "Τύπος"
+
+#: lib/plugins/wdeb-menu-manage_items.php:259
+#: lib/plugins/wdeb-menu-manage_items.php:289
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: lib/plugins/wdeb-menu-manage_items.php:283
+msgid "Built-in"
+msgstr "Ενσωματωμένο"
+
+#: lib/plugins/wdeb-menu-manage_items.php:284
+msgid "My item"
+msgstr "Το στοιχείο μου"
+
+#: lib/plugins/wdeb-menu-manage_items.php:284
+msgid "Plugin added"
+msgstr "Το plugin προστέθηκε"
+
+#: lib/plugins/wdeb-menu-manage_items.php:322
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: lib/plugins/wdeb-menu-manage_items.php:324
+msgid "Choose icon"
+msgstr "Επιλέξτε εικονίδιο"
+
+#: lib/plugins/wdeb-menu-manage_items.php:345
+msgid "Show this menu entry for:"
+msgstr "Εμφάνιση αυτής της καταχώρισης μενού για:"
+
+#: lib/plugins/wdeb-menu-manage_items.php:348
+#, php-format
+msgid "%s only"
+msgstr "%s μόνο"
+
+#: lib/plugins/wdeb-menu-manage_items.php:351
+#, php-format
+msgid "%s and above"
+msgstr "%s και άνω"
+
+#: lib/plugins/wdeb-menu-manage_items.php:357
+msgid "... or enter the capability manually"
+msgstr "... ή εισαγάγετε τη δυνατότητα χειροκίνητα"
+
+#: lib/plugins/wdeb-menu-manage_items.php:360
+msgid "Add new item"
+msgstr "Προσθήκη νέου στοιχείου"
+
+#: lib/plugins/wdeb-menu-manage_items.php:363
+msgid "You can use these macros in your URLs:"
+msgstr ""
+"Μπορείτε να χρησιμοποιήσετε αυτές τις μακροεντολές στις διευθύνσεις URL σας:"
+
+#: lib/plugins/wdeb-menu-manage_items.php:366
+msgid "Your current blog path"
+msgstr "Η τρέχουσα διαδρομή του ιστολογίου σας"
+
+#: lib/plugins/wdeb-menu-manage_items.php:368
+msgid "A clean logout URL"
+msgstr "Μια καθαρή διεύθυνση URL αποσύνδεσης"
+
+#: lib/plugins/wdeb-menu-manage_items.php:374
+msgid ""
+"Use the buttons below to reset some aspects of your customization to their "
+"defaults"
+msgstr ""
+"Χρησιμοποιήστε τα παρακάτω κουμπιά για να επαναφέρετε ορισμένες πτυχές της "
+"προσαρμογής σας στις προεπιλογές τους"
+
+#: lib/plugins/wdeb-menu-manage_items.php:375
+msgid "Reset menu order"
+msgstr "Επαναφορά σειράς μενού"
+
+#: lib/plugins/wdeb-menu-manage_items.php:377
+msgid "Reset new menu items"
+msgstr "Επαναφορά νέων στοιχείων μενού"
+
+#: lib/plugins/wdeb-menu-manage_items.php:379
+msgid "Reset everything"
+msgstr "Αρχικοποίηση "
+
+#: lib/plugins/wdeb-menu-manage_items.php:389
+msgid ""
+"Warning: this will remove all your custom ordering and revert to default. "
+"Proceed?"
+msgstr ""
+"Προειδοποίηση: αυτό θα καταργήσει όλες τις προσαρμοσμένες παραγγελίες σας "
+"και θα επανέλθει στην προεπιλογή. Προχωρώ?"
+
+#: lib/plugins/wdeb-menu-manage_items.php:390
+msgid "Warning: this will remove all the new menu items you added. Proceed?"
+msgstr ""
+"Προειδοποίηση: αυτό θα καταργήσει όλα τα νέα στοιχεία μενού που προσθέσατε. "
+"Το κάνουμε;"
+
+#: lib/plugins/wdeb-menu-manage_items.php:391
+msgid "Warning: this will remove all your customizations. Proceed?"
+msgstr ""
+"Προειδοποίηση: αυτό θα καταργήσει όλες τις προσαρμογές σας. Το κάνουμε;"
+
+#: lib/plugins/wdeb-menu-wizard_toolbar_redirection.php:24
+msgid ""
+"Following this link will exit the Wizard mode. Are you sure you want to "
+"proceed?"
+msgstr ""
+"Ακολουθώντας αυτόν τον σύνδεσμο θα βγείτε από τη λειτουργία Wizard. Είστε "
+"σίγουροι ότι θέλετε να προχωρήσετε;"
+
+#: lib/plugins/wdeb-pro-force_free.php:62
+msgid "Force Easy mode on free sites"
+msgstr "Λειτουργία Force Easy σε δωρεάν ιστότοπους"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:80
+msgid "Admin footer"
+msgstr "Υποσέλιδο διαχειριστή"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:80
+#: lib/plugins/wdeb-theme-admin_footer.php:99
+msgid "Admin Footer"
+msgstr "Υποσέλιδο διαχειριστή"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:84
+msgid "Easy Blogging Admin Footer"
+msgstr "Εύκολο υποσέλιδο διαχειριστή blogging"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:100
+msgid "Use existing admin footer"
+msgstr "Χρήση υπάρχοντος υποσέλιδου διαχειριστή"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:103
+msgid "Custom Footer"
+msgstr "Προσαρμοσμένο υποσέλιδο"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:104
+msgid "Use custom footer"
+msgstr "Χρήση προσαρμοσμένου υποσέλιδου"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:105
+msgid "Custom footer content"
+msgstr "Προσαρμοσμένο περιεχόμενο υποσέλιδου"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:107
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:108
+msgid "Use the footer on Wizard pages too"
+msgstr "Χρησιμοποιήστε το υποσέλιδο και στις σελίδες του Οδηγού"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:139
+msgid "Use the footer as defined by the Admin Footer plugin"
+msgstr ""
+"Χρησιμοποιήστε το υποσέλιδο όπως ορίζεται από την προσθήκη Admin Footer"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:143
+msgid "Use footer as defined in the box below"
+msgstr "Χρησιμοποιήστε το υποσέλιδο όπως ορίζεται στο παρακάτω πλαίσιο"
+
+#: lib/plugins/wdeb-theme-admin_footer.php:152
+msgid "Apply the footer to Wizard pages too"
+msgstr "Εφαρμογή του υποσέλιδου και στις σελίδες του \"Οδηγού\""
+
+#~ msgid "There is no published issue yet"
+#~ msgstr "Δεν έχετε δημοσιεύσει ακόμα κάπoιο τεύχος"
+
+#~ msgid "Latest published issue"
+#~ msgstr "Τρέχον δημοσιευμένο τεύχος"
+
+#~ msgid "There is no issue waiting for be published"
+#~ msgstr "Δεν υπάρχει τεύχος προς Δημοσίευση"
+
+#~ msgid "To add a new issue, click"
+#~ msgstr "Για να προσθέσετε ένα νέο τεύχος πατήστε"
+
+#~ msgid "ISSUES"
+#~ msgstr "ΤΕΥΧΗ"
+
+#~ msgid "Next issue waiting to be published "
+#~ msgstr "Επόμενο Τεύχος προς Δημοσίευση"
+
+#~ msgid "Choose a theme"
+#~ msgstr "Επιλέξτε θέμα εμφάνισης"
+
+#~ msgid "write a new post"
+#~ msgstr "γράψτε ένα άρθρο"
+
+#~ msgid "Columns"
+#~ msgstr "Στήλες"
+
+#~ msgid "New page"
+#~ msgstr "Νέα Σελίδα"
+
+#~ msgid "TAGS"
+#~ msgstr "ΕΤΙΚΕΤΕΣ"
+
+#~ msgid "NEW LINK"
+#~ msgstr "ΝΕΟΣ ΣΥΝΔΕΣΜΟΣ"
+
+#~ msgid "NEW MEDIA"
+#~ msgstr "ΝΕΟ ΠΟΛΥΜΕΣΟ"
+
+#~ msgid "COMMENTS"
+#~ msgstr "ΣΧΟΛΙΑ"
+
+#~ msgid "More actions..."
+#~ msgstr "Περισσότερες ενέργειες..."
+
+#~ msgid "WIDGETS"
+#~ msgstr "ΜΟΝΑΔΕΣ"
+
+#~ msgid "MENU"
+#~ msgstr "ΜΕΝΟΥ"
+
+#~ msgid "ADD A MEMBER"
+#~ msgstr "ΠΡΟΣΘΗΚΗ ΜΕΛΟΥΣ"
+
+#~ msgid "GENERAL SETTINGS"
+#~ msgstr "ΓΕΝΙΚΕΣ ΡΥΘΜΙΣΕΙΣ"
+
+#~ msgid "DELETE MAGAZIN"
+#~ msgstr "ΔΙΑΓΡΑΦΗ ΠΕΡΙΟΔΙΚΟΥ"
+
+#~ msgid "PROFIL"
+#~ msgstr "ΠΡΟΦΙΛ"
+
+#~ msgid "Add a post"
+#~ msgstr "Νέο άρθρο"
+
+#~ msgid "Next Steps..."
+#~ msgstr "Επόμενα βήματα..."
+
+#~ msgid "MY MAGAZINES"
+#~ msgstr "ΤΑ ΠΕΡΙΟΔΙΚΑ ΜΟΥ"
+
+#~ msgid "MAGAZINES"
+#~ msgstr "ΠΕΡΙΟΔΙΚΑ"
+
+#~ msgid "Cheatin uh?"
+#~ msgstr "Η ενέργεια αυτή δεν επιτρέπεται."
+
+#~ msgid "Choose the widgets, you want"
+#~ msgstr "Επιλέξτε τις μονάδες που θέλετε"
+
+#~ msgid "View the magazin"
+#~ msgstr "Μετάβαση στο περιοδικό"
+
+#~ msgid "Schoolpress.sch.gr"
+#~ msgstr "Schoolpress.sch.gr"
+
+#~ msgid "Steps for creating a magazin"
+#~ msgstr "Βηματα για την δημιουργία περιοδικού"
